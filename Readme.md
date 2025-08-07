@@ -1,4 +1,3 @@
-```markdown
 # Online IEEE Paper Generation System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -154,3 +153,4 @@ For questions, feedback, or support, please open an issue in the GitHub reposito
 
 ---
 ```
+
